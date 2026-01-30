@@ -13,5 +13,20 @@
     "history": {
       "v0.0.0": "更新到最新版，修复客户端连接问题。"
     }
+  },
+  "mdc": {
+    "display_name": "mdc",
+    "desc": " 智能刮削：支持30+刮削源，AI人脸识别裁剪，日亚高清海报下载",
+    "labels": "工具,刮削",
+    "version": "1.25.0",
+    "author": "siilao",
+    "author_url": "",
+    "download_url": "",
+    "bug_report_url": "",
+    "install_type": "刮削工具",
+    "size": "0.18",
+    "history": {
+      "v1.25.0": "优化欧美文件名识别与刮削能力 (8b38cac)。"
+    }
   }
 }
